@@ -1,5 +1,7 @@
 # Utegym, elljusspår och skidspår i Sverige / Outdoor gyms and exercise tracks in Sweden
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24463953.svg)](https://doi.org/10.5281/zenodo.24463953)
+
 2,162 places in all 21 counties and 290 municipalities: 1,125 outdoor gyms (utegym), 190 lit exercise tracks
 (elljusspår) and 847 cross-country ski tracks, each with its municipality and county, coordinates, number of
 equipment stations (gyms) or length in km (tracks), lighting, surface where known, and a link to the
@@ -25,3 +27,7 @@ and share any adapted database under ODbL. Something missing or wrong? Fix it in
 (tag `leisure=fitness_station` for outdoor gyms) and it shows up here at the next refresh.
 
 Made by [Amble](https://amblecoach.com), an AI fitness coach app.
+
+## Cite
+
+Archived on Zenodo with a DOI: https://doi.org/10.5281/zenodo.24463953
