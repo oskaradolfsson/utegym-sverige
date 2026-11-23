@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Outdoor gyms, lit exercise tracks and ski tracks in Sweden (utegym, elljusspår, skidspår)"
+authors:
+  - family-names: Adolfsson
+    given-names: Oskar
+    affiliation: Amble
+license: ODbL-1.0
+url: "https://amblecoach.com/sv/traning-utomhus/"
+repository-code: "https://github.com/oskaradolfsson/utegym-sverige"
+keywords:
+  - outdoor gym
+  - utegym
+  - elljusspår
+  - OpenStreetMap
+  - Sweden
+  - physical activity
+  - public health

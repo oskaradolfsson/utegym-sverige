@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Outdoor gyms, lit exercise tracks and ski tracks in Sweden (utegym, elljusspår, skidspår)",
+  "description": "<p>2,162 places in all 290 Swedish municipalities: 1,125 outdoor gyms, 190 lit exercise tracks and 847 cross-country ski tracks, with municipality, county, coordinates, equipment stations or length, lighting and surface where mapped. Compiled from OpenStreetMap (extract 2026-11-13).</p><p>Map and per-municipality pages: <a href=\"https://amblecoach.com/sv/traning-utomhus/\">amblecoach.com/sv/traning-utomhus</a>.</p>",
+  "creators": [
+    {
+      "name": "Adolfsson, Oskar",
+      "affiliation": "Amble"
+    }
+  ],
+  "license": "odbl-1.0",
+  "keywords": [
+    "outdoor gym",
+    "utegym",
+    "elljusspår",
+    "OpenStreetMap",
+    "Sweden",
+    "physical activity",
+    "public health"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://amblecoach.com/sv/traning-utomhus/",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "other"
+    }
+  ],
+  "language": "eng"
+}
